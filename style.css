@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500;700&display=swap');
+body{
+    background-color: #E4C9E5;
+    text-align: center;
+    width: 100vw;
+    height: 100vh;
+    font-size: xx-large;
+    font-family: 'Poppins', sans-serif;;
+    color: black;
+}
+div{
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding-top: 1px;
+    border-radius: 30px;
+    width: 300px;
+    margin: auto;
+    background-color: white;
+    padding-bottom: 1px;
+    
+}
+input{
+    background-color: #bdb8b8;
+    border: 0;
+    width: 230px;
+    height: 40px;
+    border-radius: 30px; 
+    font-size: large;
+    color: #4D4C4C;
+    padding-left: 10px;
+}
+button{
+    font-family: 'Poppins', sans-serif;;
+    background-color: #FEB06A;
+    border-radius: 8px;
+    border: 0;
+    color: white;
+    font-size: 25px;
+}
+#novoLogin{
+    margin-bottom: 15px;
+}
+#aaa{
+    font-size: 17px;
+}
+#cadast{
+    font-size: 17px;
+    color: rgb(17, 17, 17);
+    margin: 0;
+}
